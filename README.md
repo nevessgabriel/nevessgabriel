@@ -6,7 +6,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nevessgabriel&count_private=true&show_icons=true&theme=midnight-purple" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevessgabriel&layout=compact&theme=midnight-purple" />
 </div>
-
+<div align="center">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 
 ##
 
