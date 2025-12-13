@@ -3,8 +3,8 @@
 
 <div align="center">
   <div>
-  
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nevessgabriel&show_icons=true&theme=midnight-purple" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevessgabriel&layout=compact&langs_count=7&theme=midnight-purple&count_private=true&hide=html"/>
 </div>
 <div align="center">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
