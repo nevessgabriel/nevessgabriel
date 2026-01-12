@@ -64,7 +64,7 @@ Hoje, meu foco é aprofundar em arquiteturas Node.js e criar experiências de us
 ## 📬 Vamos Conversar?
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/nevessgabriel/?locale=pt_BR)" target="_blank">
+  <a href="https://www.linkedin.com/in/nevessgabriel/?locale=pt_BR" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabrielnacosta@outlook.com">
