@@ -22,11 +22,6 @@ Hoje, meu foco é aprofundar em arquiteturas Node.js e criar experiências de us
 <br />
 
 ---
-<div align="center">
-  Developed with 💜 & TypeScript
-</div>
-
----
 ## 🛠 Tech Stack
 
 * **Languages**
